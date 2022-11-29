@@ -4,3 +4,5 @@
 nowa informacja
 # czwarty rozdział #
 # piąty rodział #
+
+# szósty rozdział # 
