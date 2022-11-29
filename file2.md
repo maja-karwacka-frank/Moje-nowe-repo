@@ -6,3 +6,5 @@ nowa informacja
 # piąty rodział #
 
 # szósty rozdział # 
+
+# nowy paragraf #
